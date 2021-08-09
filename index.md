@@ -30,7 +30,7 @@ Encontraras el siguiente contenido dentro de la documentación
 ## Nombre
 Armando David Camacho Merino
 ## Escuela
-Universidad Intereamericana Para el Desarrollo Unity
+Universidad Intereamericana para el Desarrollo
 ## Docente
 Kevin Armando Luciano Garcia
 Sexto Cuatrimestres.
