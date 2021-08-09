@@ -25,8 +25,9 @@ Encontraras el siguiente contenido dentro de la documentación
 - Imágenes y explicaciones de los elementos del juego (jugadores, enemigos, bonificaciones, obstáculos, etc.)
 - Enlace de GitHub 
 - Enlace de Video Explicativo
+```markdown
 
-#Datos Generales 
+###Datos Generales 
 ## Nombre
 Armando David Camacho Merino
 ## Escuela
