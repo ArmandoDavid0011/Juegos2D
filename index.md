@@ -17,7 +17,6 @@ En la parte superior dercha encontraras el boton "View On GitHub" al darle clikc
 
 ## CONTENIDO DOCUMENTACIÓN
 
-```markdown
 Encontraras el siguiente contenido dentro de la documentación
 
 - Objetivo General del Proyecto
@@ -27,7 +26,7 @@ Encontraras el siguiente contenido dentro de la documentación
 - Enlace de Video Explicativo
 ```markdown
 
-###Datos Generales 
+### Datos Generales 
 ## Nombre
 Armando David Camacho Merino
 ## Escuela
