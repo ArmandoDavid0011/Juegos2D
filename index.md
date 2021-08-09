@@ -10,20 +10,15 @@ Como todo sabemos el Snake es el juego de la Serpiente que venia por defecto ins
 es un juego en donde se asimilar como el juego del dinosaurio de Google cuando no tienes Wifi. Este juego trata solo de presionar la tecla "Space" sin chocar con los objetos que se le presente en el camino, no tiene un limite, así que puedes jugar el tiempo que desees.
 
 Dale Click a Este apartado y podras Acceder al video explicativo de ambos juegos
-[POO Juegos 2D (Python - Snake) (Unity - Pixeles 2D) || Explicación.](https://youtu.be/eepil9PO8Ls) to maintain and preview the content for your website in Markdown files.
+[POO Juegos 2D (Python - Snake) (Unity - Pixeles 2D) || Explicación.](https://youtu.be/eepil9PO8Ls) En el podras saber cuales son los proyectos asi como tambien de que se trata.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## DODUMENTACIÓN
+En la parte superior dercha encontraras el boton "View On GitHub" al darle clikc, podras acceder al apartado de GitHub donde esta alojada la domentación con el nombre de "Documentación"
+[Prueba](https://www.bing.com/images/search?view=detailV2&ccid=xqaSfNV5&id=9CAE4515CEB5925D3E699550FBAD25D4F7BC051E&thid=OIP.xqaSfNV55J0PqGZSsS5GsgHaDc&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c6a6927cd579e49d0fa86652b12e46b2%3frik%3dHgW899QlrftQlQ%26riu%3dhttp%253a%252f%252fwww.gigasoft.com%252fnetchart%252fimage%252fasp1b.png%26ehk%3dBL6cfl1ky9lMq%252f083BEstuNNbv7XPBfIXWJnzTOye3Q%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=233&expw=500&q=src+imagen&simid=607985962720064819&FORM=IRPRST&ck=3B000C187268E56A5FA7C34366B001F6&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)
+## CONTENIDO DOCUMENTACIÓN
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Encontraras el siguiente contenido dentro de la documentación
 
 - Bulleted
 - List
