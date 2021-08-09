@@ -14,29 +14,26 @@ Dale Click a Este apartado y podras Acceder al video explicativo de ambos juegos
 
 ## DODUMENTACIÓN
 En la parte superior dercha encontraras el boton "View On GitHub" al darle clikc, podras acceder al apartado de GitHub donde esta alojada la domentación con el nombre de "Documentación"
-[Prueba](https://www.bing.com/images/search?view=detailV2&ccid=xqaSfNV5&id=9CAE4515CEB5925D3E699550FBAD25D4F7BC051E&thid=OIP.xqaSfNV55J0PqGZSsS5GsgHaDc&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c6a6927cd579e49d0fa86652b12e46b2%3frik%3dHgW899QlrftQlQ%26riu%3dhttp%253a%252f%252fwww.gigasoft.com%252fnetchart%252fimage%252fasp1b.png%26ehk%3dBL6cfl1ky9lMq%252f083BEstuNNbv7XPBfIXWJnzTOye3Q%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=233&expw=500&q=src+imagen&simid=607985962720064819&FORM=IRPRST&ck=3B000C187268E56A5FA7C34366B001F6&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)
+
 ## CONTENIDO DOCUMENTACIÓN
 
 ```markdown
 Encontraras el siguiente contenido dentro de la documentación
 
-- Bulleted
-- List
+- Objetivo General del Proyecto
+- Explicación de regñas y niveles del juego creado
+- Imágenes y explicaciones de los elementos del juego (jugadores, enemigos, bonificaciones, obstáculos, etc.)
+- Enlace de GitHub 
+- Enlace de Video Explicativo
 
-1. Numbered
-2. List
+#Datos Generales 
+## Nombre
+Armando David Camacho Merino
+## Escuela
+Universidad Intereamericana Para el Desarrollo Unity
+## Docente
+Kevin Armando Luciano Garcia
+Sexto Cuatrimestres.
+## Materia
+POO (Programación Orientada a Objetos)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArmandoDavid0011/Juegos2D/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
