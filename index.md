@@ -9,7 +9,8 @@ Como todo sabemos el Snake es el juego de la Serpiente que venia por defecto ins
 ### Objetivo General - Juego Pixeles 2D
 es un juego en donde se asimilar como el juego del dinosaurio de Google cuando no tienes Wifi. Este juego trata solo de presionar la tecla "Space" sin chocar con los objetos que se le presente en el camino, no tiene un limite, así que puedes jugar el tiempo que desees.
 
-[editor on GitHub](https://github.com/ArmandoDavid0011/Juegos2D/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dale Click a Este apartado y podras Acceder al video explicativo de ambos juegos
+[POO Juegos 2D (Python - Snake) (Unity - Pixeles 2D) || Explicación.](https://youtu.be/eepil9PO8Ls) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
